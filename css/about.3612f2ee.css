@@ -1,0 +1,1 @@
+input{outline:none!important;box-shadow:none!important}input:focus~.input-group-append>.input-group-text{border-left:none!important}input:focus,input:focus~.input-group-append>.input-group-text{border-width:2px!important;border-color:#000!important}
