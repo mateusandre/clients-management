@@ -6,7 +6,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "start": "node server.js"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
@@ -17,10 +18,12 @@
     "bootstrap": "^4.5.2",
     "bootstrap-vue": "^2.16.0",
     "core-js": "^3.6.5",
+    "express": "^4.17.1",
     "jquery": "^3.5.1",
     "luxon": "^1.25.0",
     "popper.js": "^1.16.1",
     "register-service-worker": "^1.7.1",
+    "server-static": "^2.0.5",
     "vue": "^2.6.11",
     "vue-datetime": "^1.0.0-beta.14",
     "vue-fab": "^2.3.1",
