@@ -61,7 +61,7 @@
     </div>
     <b-sidebar
       id="sidebar-backdrop"
-      title="Cílios Business v1"
+      title="Cílios Business"
       backdrop-variant="dark"
       bg-variant="white"
       backdrop
