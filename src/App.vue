@@ -134,7 +134,7 @@
 
 <style>
 
-@font-face {
+/* @font-face {
 font-family: 'Roboto';
   src: url('assets/fonts/Roboto-Light.ttf')  format('truetype');
 }
@@ -142,7 +142,7 @@ font-family: 'Roboto';
 @font-face {
 font-family: 'Roboto-Regular';
   src: url('assets/fonts/Roboto-Regular.ttf')  format('truetype');
-}
+} */
 
 .nav-item{
   margin-top: 10px;
